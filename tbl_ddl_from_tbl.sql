@@ -1,3 +1,7 @@
+
+-- generate table ddl from existing table
+-- redshift only
+
 select ddl from 
 (
 SELECT
